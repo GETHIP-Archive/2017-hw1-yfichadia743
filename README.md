@@ -8,5 +8,3 @@ There are two functions available for you to utilize inside `scripts.js`:
 - `findGPA()` takes six variables as input and returns a GPA value
 
 Take a look at both of these functions and try to understand how they work.
-
-https://classroom.github.com/assignment-invitations/c76c708202e0bcbe15210dfb1a67502e
